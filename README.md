@@ -13,4 +13,3 @@ https://www.youtube.com/watch?v=rRkyA8bzQWQ
 ### Android
 `Build/Dixit.apk`
 ### iOS
-coming soon...
